@@ -1,6 +1,21 @@
 # projeto-apeperia
 
-Emmet
+Projeto utilizando CSS e HTML para exemplificar a responsividade mobile/web. Curso Alura 
+
+Utilizando Emmet
+
+## Tela
+
+### Mobile first:
+
+<img width="375" height="667" src="https://user-images.githubusercontent.com/66702430/192076121-58828d91-d0bd-4e15-b395-0ffcdc59140b.png"/>
+
+---
+
+### Web:
+![image](https://user-images.githubusercontent.com/66702430/192076154-f4781ae8-a0d1-4908-8803-3c23f39dd8af.png)
+
+---
 
 ### 01.
 
